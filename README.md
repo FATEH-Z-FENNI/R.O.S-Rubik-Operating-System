@@ -12,7 +12,8 @@ The Future Of Computer Operating Systems, The OS Of The Century
 
 
 
-3|| If you liked the description, I would say that it is the "Absolute System" that "Obsolete" the others, and the #NATURAL alternative to all "Computer Operating Programs" in today's world
+3|| If you liked the description, I would say:
+It is the "Absolute System" that "Obsolete" the others, and the #NATURAL alternative to all "Computer Operating Programs" in today's world
 
 
 
@@ -26,25 +27,25 @@ The Future Of Computer Operating Systems, The OS Of The Century
 
 
 
-- And a simple #IDEA that I see has a very big future if it is used well and exploited intelligently, this idea is found in "Linux - Bottles"
+- And a very simple #IDEA that I see it personally has a very big future if it is used well and exploited intelligently, this idea you can find in "Linux - Bottles"
 
 
 
-6|| The Goal is that humanity and the world do not fall into a situation similar to "pre-MSX" era
+6|| The GOAL is that humanity and the world do not fall into a situation similar to "Pre-MSX" era
 
 
 
-7|| I propose #ROS: "Rubik OS" to be the only Global System for all the "OS" and platforms for the "Quantum Computers" in particular
+7|| I propose #ROS: "Rubik OS" to be the only "Global System" for all the "OS" and platforms for the "Quantum Computers" in particular
+[You can call it: U.O.S The Universal Or The Unified 'Ultimate-Undisputed' Operating System (really, anything you like)]
 
 
 
 8|| The advantages of "R.O.S" that distinguish it from all current operating systems, are many but here are some:
 
 
-
 - "R.O.S" is engineered to work specifically with #QC
 
-- Due to the high value of "R.O.S", it can't be run with any "POTATO PC", and it can't be run with any Low-end-PC
+- Due to the high value of "R.O.S", it can't be run with any "POTATO PC", and it can't be run with any Lowend PC
 
 - If "R.O.S" is used with the current "Personal Computers", the PC must be of very high quality
 
@@ -58,23 +59,23 @@ The Future Of Computer Operating Systems, The OS Of The Century
 
 
 
-[In short, an environment "R.O.S" that includes several environments "Win, Linux, Android", and each environment "The BOX" contains "Bottles" and each "Bottle" contains a #SOFTWARE that you use]
+[In short, an environment "R.O.S" that includes several environments "Win, Linux, Android...etc", and each environment "The BOX" contains "Bottles" and each "Bottle" contains a #SOFTWARE that you use]
 
 
 
 - Imagine:
 
 "RETROARCH" as an "OS" for your PC not an "Emulator"
-(don't think to much about the "emulators" am using it to simplified the IDEA to you for a better explanation
+(don't think to much about the word "emulators" am using it to simplified the IDEA to you for a better explanation
 think about your OS that you are using now, OK, can you run other softwares not mant for your OS, OK. How do you do that!?)
 
-You don't need "Windows" to run it, you don't need "Linux", you don't need BlueStacks or any Google environments or anything else for ever
+You don't need "Windows" to run it, you don't need "Linux", you don't need BlueStacks or any of Google's environments or anything else for ever
 
 "Different Platforms But One Environment On One Screen"
 
 [For the idiots:
 
-Imagine playing an "Android game", while you capture the screen with a "Windows program" and then process "Edit" everything with an "IOS application" and upload this to the web via a special "Web Brower" lets say a Firefox "LINUX ver"
+Imagine playing an "Android game", while you capture the screen with a "Windows program" and then process "Edit" everything with an "IOS app" and upload this to the web via a special "Web Browser" lets say a Firefox "LINUX ver"
 
 All this via your computer screen without closing anything]
 
@@ -83,7 +84,7 @@ All this via your computer screen without closing anything]
 "It is the end of the motherboard, Intel processors and NVIDIA GPU as we know them and know the industry associated with them
 
 
-Do you think this is achievable, and who wants to participate
+Do you think this is achievable, and who wants to participate.!?
 
 
 
